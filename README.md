@@ -1,2 +1,2 @@
 # openexis.uz
-The website of openexis org.
+The website for openexis.uz
