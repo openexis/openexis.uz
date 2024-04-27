@@ -19,10 +19,10 @@ export default function (
 <body>
 <div class="header">
   <div class="min-header">
-    <h1>Kawaragi<h1>
+    <h1>Openexis<h1>
 
-    <a href="https://kawaragi.deno.dev">Home</a>
-    <a href="https://github.com/triistam/kawaragi.ts">Source</a>
+    <a href="https://openexis.uz">Home</a>
+    <a href="https://github.com/openexis/openexis.uz">Source</a>
   </div>
 </div>
 
