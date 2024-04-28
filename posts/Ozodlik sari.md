@@ -1,14 +1,11 @@
-Ozodlik sari...  
-
-==================
+# Ozodlik sari...        
 
 [anixne](http://t.me/anixne)  
 
   
-
 > Android operatsion tizimi o'zini ochiq muhiti bilan foydalanuvchilar uchun o'zgacha erkinlik taqdim etadi. Shulardan biri bu "Custrom ROM" o'rnatish imkoniyati. Ushbu maqolada "Custom ROM" nima va uni qanday o'rnatish haqida so'z olib boramiz. Maqola davomida esa foydali va zarar tomonlarini ham ko'rib o'tamiz.
 
-![](/file/116ce5deb5a3643f8edd7.png)
+![](https://telegra.ph/file/116ce5deb5a3643f8edd7.png)
 
 Custom ROM - Modifikatsiya qilingan android operatsion tizimi. Odatda bunday modifikatsiya va o'zgarishlar bilan entuziastlar shug'ullanadi. Official ROM'lardan farqi esa u taqdim etadigan o'zgacha "Оболочка", modifikatsiya qilingan yadro va katta kastomizatsiyaga ega bo'lgan tizim. **_Custom ROM alohida operatsion tizim emas._** U android based va taqdim etilgan ochiq kod manbasiga ko'ra qurilgan.
 
@@ -54,7 +51,7 @@ Birinchi o'rinda Custom ROM tanlab olamiz. Aslida ma'lum bir telefon uchun prosh
 
 Shulardan biriga kirib, telefoningiz haqida barchasini bilib olishingiz mumkin. Bundan tashqari telefoningiz uchun, yadro,custom rom, turli xil patchlar, firmware, drivers va utilitlar yuklab olishingiz ham mumkin. Biz aynan 4pda'dan foydalanamiz.
 
-![](/file/36f3b71a3564de9186706.png)
+![](https://telegra.ph/file/36f3b71a3564de9186706.png)
 
 4pda'da redmi 8 uchun none official proshivkalar
 
@@ -62,9 +59,9 @@ Yuqoridagi rasmda ko'rib turganingizdek, bizda ikki tanlov, gsi va none gsi bor.
 
   
 
-![](/file/54e992427a0ce5a6c1c19.png)
+![](https://telegra.ph/file/54e992427a0ce5a6c1c19.png)
 
-![](/file/ceb55a8513e069d59b094.png)
+![](https://telegra.ph/file/ceb55a8513e069d59b094.png)
 
 Tepada keltirilgan rasmga ko'ra, bizda juda ham ko'p variant mavjud. Biz android versiyaga qarab birini tanlab olishimiz mumkin. Sinalgan va vaqt davomida o'z reputatsiyasiga ega bo'lganlari bular:
 
@@ -80,7 +77,7 @@ Ayni damda biz "Pixel Experience" o'rnatamiz. Sababi, u juda ham barqaror va ko'
 
 Endi Android'ga qarab kerakli "PE" ni tanlaymiz. Men android 12 bazasida o'rnataman shu sababdan tepadagi rasmda Android 12 bo'limidagi "Pixel Experience" ustiga bosamiz.
 
-![](/file/5cf9f0d543df652e839b1.png)
+![](https://telegra.ph/file/5cf9f0d543df652e839b1.png)
 
 Android 12, pixel experience
 
@@ -92,7 +89,7 @@ Bizda shu kabi oyna ochiladi. Bu yerda biz, operatsion tizim ko'rinishi, tizimga
 
 So'ng sayt bizni "sourceforge" saytiga yuboradi. U yerdan kerakli versiya (Meni holatimda eng so'ngisi) tanlab yuklab olamiz.
 
-![](/file/a7b1952e968905900825f.png)
+![](https://telegra.ph/file/a7b1952e968905900825f.png)
 
 **Ikkinchi qilinadigan amal esa bu "Custom recovery" tanlab uni yuklab olish.**
 
@@ -105,7 +102,7 @@ Biz aynan TWRPni o'rnatamiz. Sababi, u ancha yildan beri ishlab va rivojlanib ke
 
 Shu bois, 4pda'ga qaytamiz va o'sha yerdan yuklab olamiz.
 
-![](/file/1399482aaeb6e4467d4ac.png)
+![](https://telegra.ph/file/1399482aaeb6e4467d4ac.png)
 
 Bu yerdan, bizni aynan TWRP'ni so'ngi versiyasi qiziqtiradi. Bir nechta click bilan zip file'ni yuklab olamiz.
 
@@ -144,7 +141,7 @@ Xioami qurilmalarida bootloader uchun maxsus utilidan foydalanishimiz kerak. Ya'
 
   
 
-![](/file/c2de9200e3036ed603e05.png)
+![](https://telegra.ph/file/c2de9200e3036ed603e05.png)
 
 Manba: portal.mi-room.ru
 
@@ -156,7 +153,7 @@ Manba: portal.mi-room.ru
 
 9\. Mi flash unlock dasturini ishga tushiring. Paydo bo'lgan oynaga telefonga ulangan Mi Account ma'lumotlarini kiritib login qiling.
 
-![](/file/f10aa3483983f2fb82a99.png)
+![](https://telegra.ph/file/f10aa3483983f2fb82a99.png)
 
 Login oynasi. Manba: portal.mi-room.ru
 
@@ -164,13 +161,13 @@ Login oynasi. Manba: portal.mi-room.ru
 
 11\. Unlock ustiga bosilganda, bir nechta ogoxlantirish chiqadi. Qo'rqmasdan, "Unlock anyway" qilamiz.
 
-![](/file/6301d4802434c1756ab62.png)
+![](https://telegra.ph/file/6301d4802434c1756ab62.png)
 
 "Unlock anyway" ustiga bosamiz. Manba: portal.mi-room.ru
 
 12\. Agar o'xshasa, quyida keltirilgan xabar olamiz. O'xshamagan taqdirda esa bir necha soat(odatda 360 soat ya'ni 15 kun) chiqadi. Shu kabi holat yuz bersa, siz bilan vaqtinchalik xayrlashishga tog'ri keladi. Berilgan muddatdan so'ng qayta huddi shu amalni qilasiz.
 
-![](/file/6a221131cf01880f4aae5.png)
+![](https://telegra.ph/file/6a221131cf01880f4aae5.png)
 
 Muvaffaqiyatli unlock bo'lgan bootloader. Manba: portal.mi-room.ru
 
@@ -198,7 +195,7 @@ Bootloader ochilgandan so'ng, custom recovery o'rnatish uchun hech qanday to'siq
 
 1.  Recovery'ga kirganimizda bizda shunday ko'rinish akslanadi.
 
-![](/file/895994ec9f7adb617b051.png)
+![](https://telegra.ph/file/895994ec9f7adb617b051.png)
 
 Manba: makeuseof.com
 
@@ -208,7 +205,7 @@ Birinchi o'rinda biz backup qilib olishimiz zarur(Har ehtimolga qarshi). Buning 
 
   
 
-![](/file/1c51a432a5273c6c22666.png)
+![](https://telegra.ph/file/1c51a432a5273c6c22666.png)
 
 Manba: makeuseof.com
 
@@ -220,7 +217,7 @@ Backup qilib bo'lgach, maxsus file paydo bo'ladi. Uni biz kompyuterga tashlab qo
 
 **4\.** Orqaga qaytamiz va "Install" bo'limiga o'tamiz, bu yerdan hozirgi zip obrazni tanlab swipe qilamiz.
 
-![](/file/e968ad979cd41cde2bfb1.png)
+![](https://telegra.ph/file/e968ad979cd41cde2bfb1.png)
 
 Manba: makeuseof.com
 
