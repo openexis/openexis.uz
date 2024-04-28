@@ -18,7 +18,7 @@ ${await posts()}
     "https://raw.githubusercontent.com/triistam/website/main/static/favicon.ico";
 
   const html_text = html(
-    "Kawaragi | Blog",
+    "Openexis | Blog",
     css_link,
     css_path,
     body,
